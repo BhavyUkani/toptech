@@ -1,0 +1,63 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.log
+
+# Node.js (toptech-api)
+toptech-api/node_modules/
+toptech-api/dist/
+npm-debug.log
+yarn-error.log
+.env
+.env.*
+!.env.example
+coverage/
+
+# Flutter/Dart (toptech-app)
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+/toptech-app/build/
+*.class
+
+# Android (toptech-app/android)
+.gradle/
+local.properties
+*.keystore
+*.apk
+*.aab
+*.dex
+
+# iOS (toptech-app/ios)
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+ios/.symlinks/
+ios/Pods/
